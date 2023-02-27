@@ -1,0 +1,41 @@
+{
+  "name": "arqui-jlm",
+  "displayName": "Arqui.jlm",
+  "description": "Prueba de extension para VSCode con Html",
+  "icon": "images/logo-html.png",
+  "version": "0.0.1",
+  "authors":"Jheyner Lobo, Leider Martínez, Matilde Arévalo",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JheynerLobo/Extensi-n_Diagn-stico0"
+    
+    },
+  "categories": [
+    "Snippets",
+    "Programming Languages"
+  ],
+
+  "keywords": [
+    "HTML",
+    "Languages",
+    "Web"
+  ],
+  
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/html.json"
+        
+      },
+      {
+        "language": "html",
+        "path":"./snippets/form.json"
+      }
+    ]
+  }
+}
+
