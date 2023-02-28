@@ -1,6 +1,6 @@
 {
-    "Ejemplo HTML": {
-    "prefix": "ejemplo_html",
+    "DOM HTML": {
+    "prefix": "DOM_Html",
     "body": [
     "<html>",
     "\t<head>",

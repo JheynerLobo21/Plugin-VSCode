@@ -1,0 +1,26 @@
+{
+    "Form HTML": {
+    "prefix": "form_html",
+    "body": [
+        "<form action='ejemplo.php' method='post'>",
+        "\t<p>Nombre:",
+        "\t\t<input type='text' name='nombre' placeholder='Ingrese su nombre' size='40'>",
+        "\t</p>",
+        "\t<p>Edad:",
+        "\t\t<input type='number' name='edad'>",
+        "\t</p>",
+        "\t<p>Fecha de nacimiento:",
+        "\t\t<input type='date' name='nacido' min='1900'>",
+        "\t</p>",
+        "\t<p>Sexo:",
+        "\t\t<input type='radio' name='hm' value='h'> Hombre",
+        "\t\t<input type='radio' name='hm' value='m'> Mujer",
+        "\t</p>",
+        "\t<p>",
+        "\t\t<input type='submit' value='Enviar'>",
+        "\t\t<input type='reset' value='Borrar'></p>",
+        "</form>"
+    ],
+    "description": "Ejemplo de formulario – Prueba"
+    }
+}
