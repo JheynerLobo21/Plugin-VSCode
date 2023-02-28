@@ -1,0 +1,16 @@
+{
+    "DOM HTML": {
+    "prefix": "DOM_Html",
+    "body": [
+    "<html>",
+    "\t<head>",
+    "\t\t<title>Ejemplo Extension</title>",
+    "\t</head>",
+    "\t<body>",
+    "\t$2",
+    "\t</body>",
+    "</html>"
+    ],
+    "description": "Ejemplo de HTML – Prueba"
+    }
+    }

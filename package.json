@@ -52,6 +52,18 @@
       {
         "language": "css",
         "path":"./snippets/css/login_css.json"
+      },
+      {
+        "language": "html",
+        "path":"./snippets/html/form.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/carrusel.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/css/carrusel.json"
       }
     ]
   }
