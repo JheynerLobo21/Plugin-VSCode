@@ -1,0 +1,19 @@
+{
+    "Dropdown HTML": {
+        "prefix": "dropdown_Html",
+        "body": [ 
+            "<div class='btn-group'>",
+            "\t<button type='button' class='btn btn-primary dropdown-toggle' data-bs-toggle='dropdown' aria-expanded='false'>",
+            "\t\tAcción",
+            "\t</button>",
+            "\t<ul class='dropdown-menu'>",
+              "\t\t<li><a class='dropdown-item' href='#'>Acción</a></li>",
+              "\t\t<li><a class='dropdown-item' href='#'>Otra acción</a></li>",
+              "\t\t<li><a class='dropdown-item' href='#'>Algo más aqui</a></li>",
+              "\t\t<li><hr class='dropdown-divider'></li>",
+              "\t\t<li><a class='dropdown-item' href='#'>Enlace separado</a></li>",
+            "\t</ul>",
+          "</div>"
+]
+}
+}
