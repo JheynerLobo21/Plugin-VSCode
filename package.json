@@ -5,12 +5,13 @@
   "icon": "images/logo-html.png",
   "version": "0.0.1",
   "authors":"Jheyner Lobo, Leider Martínez, Matilde Arévalo",
+  "sourcekit-lsp.serverPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/sourcekit-lsp",
   "engines": {
     "vscode": "^1.75.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JheynerLobo/Extensi-n_Diagn-stico0"
+    "url": "https://github.com/JheynerLobo21/Plugin-VSCode"
     
     },
   "categories": [
@@ -52,18 +53,18 @@
         "language": "css",
         "path":"./snippets/css/login_css.json"
       },
-        {
-          "language": "html",
-          "path":"./snippets/html/form.json"
-        },
-        {
-          "language": "html",
-          "path": "./snippets/html/carrusel.json"
-        },
-        {
-          "language": "css",
-          "path": "./snippets/css/carrusel.json"
-        }
+      {
+        "language": "html",
+        "path":"./snippets/html/form.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/carrusel.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/css/carrusel.json"
+      }
     ]
   }
 }
