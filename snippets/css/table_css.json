@@ -1,0 +1,18 @@
+{
+    "Table_css": {
+        "prefix": "table_css",
+        "body": [
+"\ttable {",
+  "\t\tfont-family: arial, sans-serif;",
+  "\t\tborder-collapse: collapse;",
+  "\t\twidth: 100%;}",
+
+"\ttd, th {",
+  "\t\tborder: 1px solid #dddddd;",
+  "\t\ttext-align: left;",
+  "\t\tpadding: 8px;}",
+
+"\ttr:nth-child(even) {"
+        ]
+        }
+}

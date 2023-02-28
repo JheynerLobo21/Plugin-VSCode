@@ -27,14 +27,14 @@
   
   "contributes": {
     "snippets": [
+    
       {
         "language": "html",
-        "path": "./snippets/html/DOM.json"
-        
+        "path": "./snippets/html/DOM.json"  
       },
       {
         "language": "html",
-        "path":"./snippets/html/bootstrap.json"
+       "path":"./snippets/html/bootstrap.json"
       },
       {
         "language": "html",
@@ -44,7 +44,6 @@
         "language": "html",
         "path":"./snippets/html/login.json"
       },
-      
       {
         "language": "css",
         "path":"./snippets/css/dropdown_css.json"
@@ -64,6 +63,18 @@
       {
         "language": "css",
         "path": "./snippets/css/carrusel.json"
+      {
+        "language": "css",
+        "path":"./snippets/css/table_css.json"
+      },
+      {
+        "language": "html",
+        "path":"./snippets/html/table.json"
+      },
+      {
+        "language": "html",
+        "path":"./snippets/html/lists.json"
+      }
       }
     ]
   }
