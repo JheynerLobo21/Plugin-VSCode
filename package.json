@@ -28,7 +28,7 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/html/dom_html.json"
+        "path": "./snippets/html/DOM.json"
         
       },
       {
