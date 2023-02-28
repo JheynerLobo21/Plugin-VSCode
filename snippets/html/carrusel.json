@@ -1,0 +1,98 @@
+{
+    "Carrusel HTML": {
+    "prefix": "carrusel_html",
+    "body": [
+        "<div id='carrusel'>",
+        "\t<a href='#' class='left-arrow'><img src='images/left-arrow.png' /></a>",
+        "\t<a href='#' class='right-arrow'><img src='images/right-arrow.png' /></a>",
+        "\t<div class='carrusel'>",
+        "\t\t<div class='product' id='product_0'>",
+        "\t\t\t<img src='gallery/01.jpg' width='195' height='100' />",
+        "\t\t\t<h5>Lorem ipsum 1</h5>",
+        "\t\t\t<p>165.00 €</p>",
+        "\t\t</div>",
+        "\t\t<div class='product' id='product_1'>",
+        "\t\t\t<img src='gallery/02.jpg' width='195' height='100' />",
+        "\t\t\t<h5>Lorem ipsum 2</h5>",
+        "\t\t\t<p>100.00 €</p>",
+        "\t\t</div>",
+        "\t\t<div class='product' id='product_2'>",
+        "\t\t\t<img src='gallery/03.jpg' width='195' height='100' />",
+        "\t\t\t<h5>Lorem ipsum 3</h5>",
+        "\t\t\t<p>250.00 €</p>",
+        "\t\t</div>",
+        "\t\t<div class='product' id='product_3'>",
+        "\t\t\t<img src='gallery/01.jpg' width='195' height='100' />",
+        "\t\t\t<h5>Lorem ipsum 4</h5>",
+        "\t\t\t<p>75.00 €</p>",
+        "\t\t</div>",
+        "\t\t<div class='product' id='product_4'>",
+        "\t\t\t<img src='gallery/02.jpg' width='195' height='100' />",
+        "\t\t\t<h5>Lorem ipsum 5</h5>",
+        "\t\t\t<p>65.00 €</p>",
+        "\t\t</div>",
+        "\t\t<div class='product' id='product_5'>",
+        "\t\t\t<img src='gallery/03.jpg' width='195' height='100' />",
+        "\t\t\t<h5>Lorem ipsum 6</h5>",
+        "\t\t\t<p>40.00 €</p>",
+        "\t\t</div>",
+        "\t</div>",
+        "</div>",
+        "<script src='https://code.jquery.com/jquery-3.2.1.js'></script>",
+        "<script>",
+        "\tvar current = 0;",
+        "\tvar imagenes = new Array();",             
+        "\t$(document).ready(function() {",
+        "\t\tvar numImages = 6;",
+        "\t\tif (numImages <= 3) {",
+        "\t\t\t$('.right-arrow').css('display', 'none');",
+        "\t\t\t$('.left-arrow').css('display', 'none');",
+        "\t\t}",
+        "\t\t$('.left-arrow').on('click',function() {",
+        "\t\t\tif (current > 0) {",
+        "\t\t\t\tcurrent = current - 1;",
+        "\t\t\t} else {",
+        "\t\t\t\tcurrent = numImages - 3;",
+        "\t\t\t}",
+        "\t\t\t$('.carrusel').animate({'left': -($('#product_'+current).position().left)}, 600);",             
+        "\t\t\treturn false;",
+        "\t\t});",             
+        "\t\t$('.left-arrow').on('hover', function() {",
+        "\t\t\t$(this).css('opacity','0.5');",
+        "\t\t}, function() {",
+        "\t\t\t$(this).css('opacity','1');",
+        "\t\t});",             
+        "\t\t$('.right-arrow').on('hover', function() {",
+        "\t\t\t$(this).css('opacity','0.5');",
+        "\t\t}, function() {",
+        "\t\t\t$(this).css('opacity','1');",
+        "\t\t});",
+        "\t\t$('.right-arrow').on('click', function() {",
+        "\t\t\tif (numImages > current + 3) {",
+        "\t\t\t\tcurrent = current+1;",
+        "\t\t\t} else {",
+        "\t\t\t\tcurrent = 0;",
+        "\t\t\t}",     
+        "\t\t\t$('.carrusel').animate({'left': -($('#product_'+current).position().left)}, 600);",
+        "\t\t\treturn false;",
+        "\t\t});", 
+        "\t});",
+        "</script>"
+    ],
+    "description": "carrusel"
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
