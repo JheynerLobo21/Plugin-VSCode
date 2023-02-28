@@ -28,12 +28,20 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/html.json"
+        "path": "./snippets/html/dom_html.json"
         
       },
       {
+        "language": "css",
+        "path":"./snippets/css/table_css.json"
+      },
+      {
         "language": "html",
-        "path":"./snippets/form.json"
+        "path":"./snippets/html/table.json"
+      },
+      {
+        "language": "html",
+        "path":"./snippets/html/lists.json"
       }
     ]
   }
