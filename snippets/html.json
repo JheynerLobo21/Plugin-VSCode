@@ -2,12 +2,13 @@
     "Ejemplo HTML": {
     "prefix": "ejemplo_html",
     "body": [
-    "<html>",
+    "<!DOCTYPE html lang=es>",
     "\t<head>",
-    "\t\t<title>Ejemplo Extension</title>",
+    "\t\t<title>Título aquí</title>",
     "\t</head>",
-    "\t<body>",
-    "\t$2",
+    "\t<body> \nContenido Aquí",
+    "\t\t<a href=#>",
+    "\t\t<h1></h1>",
     "\t</body>",
     "</html>"
     ],
