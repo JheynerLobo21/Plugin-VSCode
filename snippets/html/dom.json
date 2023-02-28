@@ -1,0 +1,20 @@
+{
+    "DOM HTML": {
+    "prefix": "DOM_Html",
+    "body": [
+    "<!DOCTYPE html lang=es>",
+    "\t<head>",
+    "\t\t<charset='UTF-8'>",
+    "\t\t<http-equiv='X-UA-Compatible' content='IE=edge'>",
+    "\t\t<name='viewport' content='width=device-width, initial-sclae=1.0'>",
+    "\t\t<title>Título aquí</title>",
+    "\t</head>",
+    "\t<body> \nContenido Aquí",
+    "\t\t<h1>Título 1</h1>",
+    "\t\t<a href=#></a>",
+    "\t</body>",
+    "</html>"
+    ],
+    "description": "Ejemplo de HTML – Prueba"
+    }
+    }

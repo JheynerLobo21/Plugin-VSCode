@@ -1,0 +1,28 @@
+{
+    "Login Html": {
+    "prefix": "login Example",
+    "body": [
+        "<div id='contenedor'>",
+        "\t<div id='central'>",
+        "\t\t<div id='login'>",
+        "\t\t\t<div class='titulo'>",
+        "\t\t\t\tBienvenido",
+        "\t\t\t</div>",
+        "\t\t\t<form id='loginform'>",
+        "\t\t\t\t<input type='text' name='usuario' placeholder='Usuario' required>",
+        "\t\t\t\t<input type='password' placeholder='Contraseña' name='password' required>",
+        "\t\t\t\t<button type='submit' title='Ingresar' name='Ingresar'>Login</button>",
+        "\t\t\t</form>",
+        "\t\t\t<div class='pie-form'>",
+        "\t\t\t\t<a href='#'>¿Perdiste tu contraseña?</a>",
+        "\t\t\t\t<a href='#'>¿No tienes Cuenta? Registrate</a>",
+        "\t\t\t</div>",
+        "\t\t</div>",
+        "\t\t<div class='inferior'>",
+        "\t\t\t<a href='#'>Volver</a>",
+        "\t\t</div>",
+        "\t</div>",
+        "</div>"
+    ]
+}
+}

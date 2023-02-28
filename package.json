@@ -29,16 +29,29 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/html.json"
+        "path": "./snippets/html/DOM.json"
         
       },
       {
         "language": "html",
-        "path":"./snippets/table.json"
+        "path":"./snippets/html/bootstrap.json"
       },
       {
         "language": "html",
-        "path":"./snippets/bootstrap.json"
+        "path":"./snippets/html/dropdown.json"
+      },
+      {
+        "language": "html",
+        "path":"./snippets/html/login.json"
+      },
+      
+      {
+        "language": "css",
+        "path":"./snippets/css/dropdown_css.json"
+      },
+      {
+        "language": "css",
+        "path":"./snippets/css/login_css.json"
       }
     ]
   }
