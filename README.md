@@ -91,7 +91,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
 
-![Plugin VS Code](./images/blue-covid-banner.jpg)
+![Plugin VS Code](./.vscode/images/logo-htmlcssjs.png)
 # Título del proyecto:
 
 #### Estadisticas Covid-19 
