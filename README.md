@@ -19,19 +19,19 @@
   | Ruta del archivo   |
 |:----------:|
 |[package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json) 
-|[launch.json]([[https://gitlab.com/Wolf21/](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json))) 
-|[bootstrap.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json]) 
-|[carrusel.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/carrusel.json])
-|[dom.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dom.json])
-|[dropdown.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dropdown.json])
-|[form.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/form.json])
-|[lists.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/lists.json])
-|[login.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/login.json])
-|[table.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json])
-|[carrusel_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/carrusel_css.json])
-|[dropdown_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/dropdown_css.json])
-|[login_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/login_css.json])
-|[table_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/table_css.json])
+|[launch.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json))) 
+|[bootstrap.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json) 
+|[carrusel.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/carrusel.json)
+|[dom.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dom.json)
+|[dropdown.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dropdown.json)
+|[form.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/form.json)
+|[lists.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/lists.json)
+|[login.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/login.json)
+|[table.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json)
+|[carrusel_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/carrusel_css.json)
+|[dropdown_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/dropdown_css.json)
+|[login_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/login_css.json)
+|[table_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/table_css.json)
 
 
 #### Tecnologías
