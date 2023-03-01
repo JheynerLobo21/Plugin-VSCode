@@ -19,7 +19,7 @@
   | Ruta del archivo   |
 |:----------:|
 |[package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json) 
-|[launch.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json))) 
+|[launch.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json)
 |[bootstrap.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json) 
 |[carrusel.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/carrusel.json)
 |[dom.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dom.json)
