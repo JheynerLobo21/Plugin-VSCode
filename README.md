@@ -1,100 +1,5 @@
-# arqui-jlm README
-
-This is the README for your extension "arqui-jlm". After writing up a brief description, we recommend including the following sections.
-
-
-## Features
-
-Esta extensión para Visual Studio Code permitirá añadir una pequeña estructura de un archivo HTML,
-
-[Logo Extension](images/logo-html.png)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-
-
-
-
-
-# Welcome to your VS Code Extension
-
-## What's in the folder
-
-* This folder contains all of the files necessary for your extension.
-* `package.json` - this is the manifest file that defines the location of the snippet file and specifies the language of the snippets.
-* `snippets/snippets.code-snippets` - the file containing all snippets.
-
-## Get up and running straight away
-
-* Press `F5` to open a new window with your extension loaded.
-* Create a new file with a file name suffix matching your language.
-* Verify that your snippets are proposed on IntelliSense.
-
-## Make changes
-
-* You can relaunch the extension from the debug toolbar after making changes to the files listed above.
-* You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
-
-## Install your extension
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
-
 ![Plugin VS Code](./.vscode/images/logo-htmlcssjs.png)
-# Título del proyecto:
-
-#### Estadisticas Covid-19 
+# Título del proyecto: #### Plugin VS Code
 
 ## Índice
 1. [Características](#características) 📋
@@ -102,28 +7,30 @@ You can author your README using Visual Studio Code. Here are some useful editor
 3. [Tecnologías](#tecnologías) 💻
 4. [IDE](#ide) 📟
 5. [Instalación](#instalación) 📥
-6. [Demo](#demo)🗄
 7. [Autores](#autores) 🧍
 8. [Institución Académica](#institución-académica) 🏫
-9. [Referencias](#referencias) 📎
 
 
 #### Características:
 
-  - Proyecto con lectura de datos json a través de la API fecth JavaScript
-  - Carga dinámica del JSON 
-  - Archivo json con los casos de contagio : [ver](https://www.datos.gov.co/resource/gt2j-8ykr.json)
-  - Uso de Bootstrap como base de estilo en CSS: [ver](https://getbootstrap.com/)
-  - Uso de la API Google Charts para la creación de gráficas estadísticas.
+  - Proyecto de plugin para VS Code para la creación de bloques de código Html y css usados frecuentemente en la programación de software
 
   #### Contenido del proyecto
-  | Ruta del archivo   |      Descripción      |
-|:----------:|-------------|
-|[index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html) |Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.|
-|[ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html) |Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.|
-|[ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html)|Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.| 
-|[ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html)|Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.|
-|[estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js)|Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.|
+  | Ruta del archivo   |
+|:----------:|
+|[package.json]([https://gitlab.com/Wolf21/](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json)) 
+|[bootstrap.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json]) 
+|[carrusel.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/carrusel.json])
+|[dom.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dom.json])
+|[dropdown.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dropdown.json])
+|[form.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/form.json])
+|[lists.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/lists.json])
+|[login.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/login.json])
+|[table.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json])
+|[carrusel_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/carrusel_css.json])
+|[dropdown_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/dropdown_css.json])
+|[login_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/login_css.json])
+|[table_css.json]([https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/table_css.json])
 
 
 #### Tecnologías
@@ -155,26 +62,6 @@ adoptado como la forma de separar la estructura de la presentación. Desde enton
 
 A continuación se puede encontrar un tutorial de CSS [Iniciar](https://www.w3schools.com/css/)
 
-  - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://www.pdf-manual.es/programacion-web/css/177-bootstrap-4.html)
-
-
-Como	ya	hemos	comentado	antes,	Bootstrap	es	uno	de	los	frameworks	más	populares	y utilizados	del	mercado	para	la	creación	de	páginas	responsive,	habiendo	sido	desarrollado por	el	equipo	de	Twitter.
-Entre	los	navegadores	soportados	se	encuentran	Chrome,	Firefox,	Opera,	Safari	e	Internet Explorer	a	partir	de	la	versión	8	(aunque	en	la	versión	7	también	funciona	correctamente).
-Está	preparado	para	funcionar	tanto	en	navegadores	de	PCs	y	portátiles	con	cualquier tamaño	de	pantalla	así	como	para	tablets	y	smartphones	de	tamaños	mucho	más reducidos.
-Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive. [(Gallego, 2018)](#gallego-a-2018-curso-bootstrap-4-css-framework-diseño-web)
-  
-A continuación se puede encontrar un tutorial de Bootstrap [Iniciar](https://www.w3schools.com/bootstrap/)
-  
-  - [![Google Charts](https://img.shields.io/badge/Google_Charts-green)]()
-
-Es la API de gráficos de Google. Una herramienta que permite a desarrolladores de aplicaciones web crear gráficos a partir de los datos escogidos e incrustarlos en las páginas web.  La API además ofrece una gran variedad de diseños de gráficos a escoger.
-
-Existe la funcionalidad básica de presentar tablas personalizadas así como los diferentes diseños aglutinados en gráficos de barras, gráficos de cajas, candlestick, gráficos compuestos, iconos dinámicos, gráficos de línea, mapas, diagramas circulares. [(Agencia de marketing digital Tresce)](#agencia-de-marketing-digital-tresce-2014-google-charts-la-api-de-gráficos-para-el-desarrollo-web)
-
-A continuación se puede encontrar un tutorial de Google Charts [Entrar](https://developers.google.com/chart/interactive/docs/quick_start)
-
-  
-
 A continuación puede visualizar un video explicativo de cada una de las tecnologías anteriormente nombradas.
 
 Usted puede ver el siguiente marco conceptual sobre HTML5:
@@ -189,36 +76,23 @@ Usted puede ver el siguiente marco conceptual sobre CSS:
 Usted puede ver el siguiente marco conceptual sobre JavaScript:
   - [Vídeo explicativo de JavaScript](https://www.youtube.com/watch?v=Nrp3c6kNyAw)
 
-Usted puede ver el siguiente marco conceptual sobre Google Charts:
-  - [Vídeo explicativo de tablas y gráficas Google Charts](https://www.youtube.com/watch?v=QRN91T8rqW4&feature=emb_logo)
 
 #### IDE
 
-- El proyecto se desarrolla usando sublime text 3 
-
-![Sublime](./images/Capture_Sublime.png)
-
-- Visor de JSON ➔ [descargar](http://jsonviewer.stack.hu/)
+- El proyecto se desarrolla usando Visual Studio Code 
 
 
 ### Instalación
 
-Firefox Devoloper Edition-> [descargar](https://www.mozilla.org/es-ES/firefox/developer/).
-El software es necesario para ver la interacción por consola y depuración del código JS
+El plugin se encuentra en MarketPlacce de Visual Studio Code con el nombre de "Arqui-jlm"
 
+Si desea ejecutar clonar el repositorio y correrlo en VS Code siga las siguientes instruccuiones:
 
-```sh
--Descargar proyecto
--Invocar página index.html desde Firefox 
-```
+## Get up and running straight away
 
-***
-### Demo
-
-![Captura_apicativo](./images/Capture_aplicacion1.png)
-![Captura_apicativo](./images/Capture_aplicacion2.png)
-![Captura_apicativo](./images/Capture_aplicaion3.png)
-![Captura_apicativo](./images/Capture_aplicacion4.png)
+* Press `F5` to open a new window with your extension loaded.
+* Create a new file with a file name suffix matching your language.
+* Verify that your snippets are proposed on IntelliSense.
 
 
 ### Autores
@@ -227,6 +101,8 @@ Proyecto desarrollado por:
 Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
 Leider Martinez (<leideryesidmm@ufps.edu.co>).
+
+Matilde Arévalo (<matildealexandraal@ufps.edu.co>)
                           
 
 ### Institución Académica   
@@ -236,9 +112,4 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
    [Programa de Ingeniería de Sistemas]:<https://ingsistemas.cloud.ufps.edu.co/>
    [Universidad Francisco de Paula Santander]:<https://ww2.ufps.edu.co/>
 
-### Referencias 
 
-
-###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, 2012(8).
-###### Gallego, A. (2018). Curso Bootstrap 4 CSS Framework diseño web.
-###### Agencia de marketing digital Tresce (2014). Google Charts la API de gráficos para el desarrollo web.
