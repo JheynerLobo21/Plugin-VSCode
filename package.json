@@ -2,7 +2,7 @@
   "name": "arqui-jlm",
   "displayName": "Arqui.jlm",
   "description": "Prueba de extension para VSCode con Html",
-  "icon": "images/logo-html.png",
+  "icon": "images/logo-htmlcssjs.png",
   "version": "0.0.1",
   "authors":"Jheyner Lobo, Leider Martínez, Matilde Arévalo",
   "sourcekit-lsp.serverPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/sourcekit-lsp",
