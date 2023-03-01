@@ -1,5 +1,5 @@
 ![Plugin VS Code](./.vscode/images/logo-htmlcssjs.png)
-# Título del proyecto: #### Plugin VS Code
+# Título del proyecto: Plugin VS Code
 
 ## Índice
 1. [Características](#características) 📋
