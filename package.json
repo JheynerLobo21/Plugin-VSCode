@@ -6,6 +6,7 @@
   "version": "0.0.1",
   "authors":"Jheyner Lobo, Leider Martínez, Matilde Arévalo",
   "sourcekit-lsp.serverPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/sourcekit-lsp",
+  "license": "License see In License.md",
   "engines": {
     "vscode": "^1.75.0"
   },
