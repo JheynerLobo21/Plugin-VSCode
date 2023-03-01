@@ -63,6 +63,7 @@
       {
         "language": "css",
         "path": "./snippets/css/carrusel.json"
+      },
       {
         "language": "css",
         "path":"./snippets/css/table_css.json"
@@ -74,7 +75,6 @@
       {
         "language": "html",
         "path":"./snippets/html/lists.json"
-      }
       }
     ]
   }
