@@ -13,6 +13,8 @@
   "\t\tpadding: 8px;}",
 
 "\ttr:nth-child(even) {"
+   "  background-color: #dddddd;",
+"}"
         ]
         }
 }
