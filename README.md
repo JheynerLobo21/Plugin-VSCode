@@ -1,4 +1,8 @@
-![Plugin VS Code](./.vscode/images/logo-htmlcssjs.png)
+
+<p align="center" width="60%">
+    <img width="10%" src="./.vscode/images/logo-htmlcssjs.png"> 
+</p>
+
 # Título del proyecto: Plugin VS Code
 
 ## Índice
@@ -7,7 +11,8 @@
 3. [Tecnologías](#tecnologías) 💻
 4. [IDE](#ide) 📟
 5. [Instalación](#instalación) 📥
-7. [Autores](#autores) 🧍
+6. [Video Explicativo](#video-explicativo)
+7. [Autores](#autores) 🧍🧍🧍‍♀️
 8. [Institución Académica](#institución-académica) 🏫
 
 
@@ -16,23 +21,23 @@
   - Proyecto de plugin para VS Code para la creación de bloques de código Html y css usados frecuentemente en la programación de software
 
   #### Contenido del proyecto
-  | Ruta del archivo  | Diagrama |
-|:----------:|:----------:|
-|[package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json) ||||||||||||[Plugin VS Code](./.vscode/images/Patron.png)||||||||||||
-|[launch.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json)
-|[bootstrap.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json) 
-|[carrusel.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/carrusel.json)
-|[dom.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dom.json)
-|[dropdown.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dropdown.json)
-|[form.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/form.json)
-|[lists.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/lists.json)
-|[login.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/login.json)
-|[table.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json)
-|[carrusel_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/carrusel_css.json)
-|[dropdown_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/dropdown_css.json)
-|[login_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/login_css.json)
-|[table_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/table_css.json)
-
+  | Ruta del archivo  | 
+|:----------:|
+|[package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json) |
+|[launch.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json)|
+|[bootstrap.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json) |
+|[carrusel.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/carrusel.json)|
+|[dom.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dom.json)|
+|[dropdown.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/dropdown.json)|
+|[form.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/form.json)|
+|[lists.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/lists.json)|
+|[login.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/login.json)|
+|[table.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/html/bootstrap.json)|
+|[carrusel_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/carrusel_css.json)|
+|[dropdown_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/dropdown_css.json)|
+|[login_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/login_css.json)|
+|[table_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/table_css.json)|
+![Plugin VS Code](./.vscode/images/Patron.png)
 
 #### Tecnologías
 
@@ -89,21 +94,23 @@ El plugin se encuentra en MarketPlacce de Visual Studio Code con el nombre de "A
 
 Si desea ejecutar clonar el repositorio y correrlo en VS Code siga las siguientes instruccuiones:
 
-## Get up and running straight away
+#### Como ejecutar en Visual
 
-* Press `F5` to open a new window with your extension loaded.
-* Create a new file with a file name suffix matching your language.
-* Verify that your snippets are proposed on IntelliSense.
+* Presione `F5` para abrir una nueva ventana con su extensión cargada.
+* Cree un nuevo archivo con un sufijo de nombre de archivo que coincida con su idioma.
+* Verifique que sus fragmentos se propongan en IntelliSense.
 
+### Video Explicativo
+[![Video Explicativo](https://img.youtube.com/vi/yyY-H_b4Yww/mqdefault.jpg)](https://youtu.be/yyY-H_b4Yww)
 
 ### Autores
 Proyecto desarrollado por: 
 
-Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
-
-Leider Martinez (<leideryesidmm@ufps.edu.co>).
-
-Matilde Arévalo (<matildealexandraal@ufps.edu.co>)
+| Integrantes | Git Hub | Contacto |
+| :---: | :---: | :---: |
+| Jheyner Alexander Lobo Duarte | <https://github.com/JheynerLobo21> | <jheyneralexanderld@ufps.edu.co> |
+| Leider Yesid Martínez Mandón | <https://github.com/leideryesidmm> | <leideryesidmm@ufps.edu.co> |
+| Matilde Alexandra Arévalo León | <https://github.com/matildearevalo11> | <matildealexandraal@ufps.edu.co> |
                           
 
 ### Institución Académica   
