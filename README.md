@@ -32,7 +32,8 @@
 |[dropdown_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/dropdown_css.json)
 |[login_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/login_css.json)
 |[table_css.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/snippets/css/table_css.json)
-
+|:----------:|
+|![Plugin VS Code](./.vscode/images/Patron.png)
 
 #### Tecnologías
 
