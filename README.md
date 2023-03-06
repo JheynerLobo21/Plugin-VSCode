@@ -16,7 +16,7 @@
   - Proyecto de plugin para VS Code para la creación de bloques de código Html y css usados frecuentemente en la programación de software
 
   #### Contenido del proyecto
-  | Ruta del archivo  |![Plugin VS Code](./.vscode/images/Patron.png)
+  | Ruta del archivo  |
 |:----------:|
 |[package.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/package.json) 
 |[launch.json](https://github.com/JheynerLobo21/Plugin-VSCode/blob/main/.vscode/launch.json)
